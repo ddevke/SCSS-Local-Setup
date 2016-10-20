@@ -1,1 +1,8 @@
-body {background: grey; }
+body {
+  background: grey; }
+
+header, footer, .container {
+  background: grey; }
+
+.heading {
+  color: red; }

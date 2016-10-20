@@ -1,3 +1,7 @@
 @import "global";
 
 body{background:$grey-bg}
+
+header, footer, .container {background:$grey-bg}
+
+.heading {color:$font-color}
